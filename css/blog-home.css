@@ -24,6 +24,11 @@ body {
   height: 300px;
   width: 300px;
 }
+
+#pizza-page{
+  text-align: center;
+}
+
 .no-bullet-points{
   list-style-type: none;
 }
